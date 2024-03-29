@@ -1,4 +1,4 @@
-# TEAM NAME: ToshoCenter
+# TEAM NAME: Suicide Squad
 
 ## MEMBERS AND ROLE:
   * Flores, Lance Kian F. - Frontend Developer
